@@ -4,7 +4,7 @@ import React from 'react'
 const day1 = () => {
     return (
         <View>
-            <Text>day1
+            <Text>day details screen
             </Text>
         </View>
     )
